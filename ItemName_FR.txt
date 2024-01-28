@@ -1,0 +1,7 @@
+ItemName_FR = {
+	ItemName_LY_Skillbooks.BookLockpicking1 = "Crochetage Vol.1: Débutant",
+	ItemName_LY_Skillbooks.BookLockpicking2 = "Crochetage Vol.2: Intermédiaire",
+	ItemName_LY_Skillbooks.BookLockpicking3 = "Crochetage Vol.3: Avancé",
+	ItemName_LY_Skillbooks.BookLockpicking4 = "Crochetage Vol.4: Expert",
+	ItemName_LY_Skillbooks.BookLockpicking5 = "Crochetage Vol.5: Maître",
+}
